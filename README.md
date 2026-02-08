@@ -47,16 +47,8 @@ Binary concept:
 Network bits → first 2 octets (10.0)
 Host bits → last 2 octets
 
-Available IP addresses:
-2
-32
-−
-16
-=
-2
-16
-=
-65,536
+Available IP addresses
+65,536(2^(32-16)
  IP addresses
 
 
@@ -91,12 +83,6 @@ Public Subnet 2	10.0.2.0/24	Load balancing / scaling
 🔢 Why /24 Subnets?
 
 /24 means:
-
-2
-32
-−
-24
-=
 256
  IP addresses per subnet
 2
